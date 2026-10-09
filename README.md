@@ -33,7 +33,7 @@ npm run preview   # preview the production build
 - `#809d62` primary — logo, section titles, primary CTAs
 - `#435f89` secondary — nav, eyebrows, subheads, brand statement, contact icons, footer
 - `#b3b265` highlights
-- `#d7cc89` soft accents / atmosphere
+- `#ffdbdb` soft accents / atmosphere (blush)
 - `#808080` muted text
 
 ## Deploy to DigitalOcean App Platform
